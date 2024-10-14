@@ -19,8 +19,6 @@
 
 [![KirubelYonas's GitHub | Stats](https://stats.quira.sh/KirubelYonas/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=KirubelYonas)
 
-[![KirubelYonas's GitHub | Languages Over Time](https://stats.quira.sh/KirubelYonas/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=KirubelYonas)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kirubel-y-37b62a322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirubel-y-37b62a322/" height="30" width="40" /></a>
