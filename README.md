@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kirubel</h1>
-<h3 align="center">Me :shipit:</h3>
+<h1 align="center">Hi, I'm Kirubel</h1>
+<h3 align="center">Inspect My work :shipit:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubel&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel" /> </p>
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=KirubelYonas&theme=dark)](https://github.com/KirubelYonas/github-readme-codewars)
 
 - 🔭 I’m currently working on **IOS System**
 
@@ -16,9 +17,8 @@
 
 - ⚡ Fun fact **Here me out Regex can be fun 🌚.**
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=KirubelYonas&theme=dark)](https://github.com/KirubelYonas/github-readme-codewars)
-
 ![](https://leetcard.jacoblin.cool/KirubelYonas?ext=activity)
+
 [![KirubelYonas's GitHub | Stats](https://stats.quira.sh/KirubelYonas/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=KirubelYonas)
 
 <h3 align="left">Connect with me:</h3>
