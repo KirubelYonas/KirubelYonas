@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kirubel.y1000@gmail.com**
 
-- ⚡ Fun fact **Here me out Regex can be fun 🌚.**
+- 🧠 Just saying **Here me out Regex can be fun 🌚.**
 
 ![](https://leetcard.jacoblin.cool/KirubelYonas?ext=activity)
 
