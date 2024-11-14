@@ -5,7 +5,7 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=KirubelYonas&theme=dark)](https://github.com/KirubelYonas/github-readme-codewars)
 
-- 🔭 I’m currently working on **OS Cloned System**
+- 🔭 I’m currently working on **Cloned OS**
 
 - 🌱 I’m currently learning **C# Data structure and Algorithms**
 
